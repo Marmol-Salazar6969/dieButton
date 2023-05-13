@@ -1,0 +1,14 @@
+C:\Users\KnobbyTacks\Desktop\MY MOD TEMPLATE - Copy\src\bin\Release\net48\DieButton.dll
+C:\Users\KnobbyTacks\Desktop\MY MOD TEMPLATE - Copy\src\obj\Release\net48\DieButton.csproj.AssemblyReference.cache
+C:\Users\KnobbyTacks\Desktop\MY MOD TEMPLATE - Copy\src\obj\Release\net48\DieButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KnobbyTacks\Desktop\MY MOD TEMPLATE - Copy\src\obj\Release\net48\DieButton.AssemblyInfoInputs.cache
+C:\Users\KnobbyTacks\Desktop\MY MOD TEMPLATE - Copy\src\obj\Release\net48\DieButton.AssemblyInfo.cs
+C:\Users\KnobbyTacks\Desktop\MY MOD TEMPLATE - Copy\src\obj\Release\net48\DieButton.csproj.CoreCompileInputs.cache
+C:\Users\KnobbyTacks\Desktop\MY MOD TEMPLATE - Copy\src\obj\Release\net48\DieButton.dll
+C:\Users\KnobbyTacks\Desktop\DieButton\src\bin\Release\net48\DieButton.dll
+C:\Users\KnobbyTacks\Desktop\DieButton\src\obj\Release\net48\DieButton.csproj.AssemblyReference.cache
+C:\Users\KnobbyTacks\Desktop\DieButton\src\obj\Release\net48\DieButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KnobbyTacks\Desktop\DieButton\src\obj\Release\net48\DieButton.AssemblyInfoInputs.cache
+C:\Users\KnobbyTacks\Desktop\DieButton\src\obj\Release\net48\DieButton.AssemblyInfo.cs
+C:\Users\KnobbyTacks\Desktop\DieButton\src\obj\Release\net48\DieButton.csproj.CoreCompileInputs.cache
+C:\Users\KnobbyTacks\Desktop\DieButton\src\obj\Release\net48\DieButton.dll

@@ -1,0 +1,4 @@
+[ADD]DWTD/rangeFac=1 : DWTD/vol=0.3/pitch=1
+[ADD]rot_tor/rangeFac=1 : rot_tor/vol=0.3/pitch=1
+[ADD]IDWTD/rangeFac=1 : IDWTD/vol=0.2/pitch=1
+[ADD]sleepy/rangeFac=1 : sleepy/vol=0.3/pitch=1
